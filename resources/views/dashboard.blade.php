@@ -69,7 +69,7 @@
 </div>
 
 <div class="row">
-  <div class="col-lg-6 col-md-6 col-sm-6 col-6">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-12">
     <div class="card">
       <div class="card-header">
         <h4>Grafik Barang Masuk & Barang Keluar</h4>
@@ -79,8 +79,7 @@
       </div>
     </div>
   </div>
-
-  <div class="col-lg-6 col-md-6 col-sm-6 col-6">
+  <div class="col-lg-6 col-md-12 col-sm-12 col-12">
     <div class="card">
       <div class="card-header">
         <h4>Stok Mencapai Batas Minimum</h4>
